@@ -1,0 +1,84 @@
+.navbar{
+    background-color: #fff601;
+    border-bottom-color: #f1dc31;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+}
+
+.navigation{
+    color: black;
+}
+
+.workscontainer{
+    background-color: #e6e6e6;
+    padding: 0px -15px;
+}
+
+.topcontent{
+    background-color: #e6e6e6;
+    padding: 0px -15px;
+}
+
+.username{
+    color: #fff601;
+}
+
+.button{
+    background-color: #fff601;
+}
+
+.seeallourworks{
+    margin-left: 500px;
+    margin-bottom: -400px;
+}
+
+.workstitle{
+    color: #fff601;
+    border-radius: 5px;
+    background-color: #000000;
+
+}
+
+.worksbg{
+    background-color: #6b6b6b;
+    border-style: solid;
+    border-width: 1px 0px;
+}
+
+.articletitle{
+    color: #ba3515;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+.aboutus{
+    background-color: #f1f1f1;
+}
+
+.footerhead{
+    background-color: #1f1f1f;
+}
+
+.footerbody{
+    background-color: #3c3c3c;
+}
+
+.subscriptiontitle, .footertitle, .footerextradescription, .worksdescription, .footerlandingpagelinks{
+    color: #fefefe;
+}
+
+
+.iconcaption{
+    color: #fff601;
+    display: inline-block;
+    margin: 20px 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+.birdicon{
+    width: 50px;
+}
